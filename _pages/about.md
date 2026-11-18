@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: prof_pic_color.jpg
   image_circular: true # crops the image to make it circular
-  more_info: 
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -17,14 +17,9 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Zichen is a Ph.D. student at the School of Integrated Circuits, Peking University, advised by Prof. [Xiyuan Tang](https://tangresearch.com/){:target="_blank"} and Prof. [Yuan Wang](https://scholar.google.com/citations?user=YOhZM6kAAAAJ){:target="_blank"}. He's expecting to graduate in 2028.
+Zichen is a Ph.D. student at the School of Integrated Circuits, Peking University, advised by Prof. [Xiyuan Tang](https://tangresearch.com/){:target="\_blank"} and Prof. [Yuan Wang](https://scholar.google.com/citations?user=YOhZM6kAAAAJ){:target="\_blank"}. He's expecting to graduate in 2028.
 
 His current research focuses on **event-based vision, CMOS image sensor and analog EDA**. He currently serves as the Chair of the IEEE CASS Peking University Student Branch Chapter.
 
