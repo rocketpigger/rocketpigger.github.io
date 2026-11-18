@@ -21,7 +21,7 @@ announcements:
 
 Zichen is a Ph.D. student at the School of Integrated Circuits, Peking University, advised by Prof. [Xiyuan Tang](https://tangresearch.com/){:target="\_blank"} and Prof. [Yuan Wang](https://scholar.google.com/citations?user=YOhZM6kAAAAJ){:target="\_blank"}. He's expecting to graduate in 2028.
 
-His current research focuses on **event-based vision, CMOS image sensor and analog EDA**. He currently serves as the Chair of the IEEE CASS Peking University Student Branch Chapter. He also reviews for IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) and ACM Transactions on Design Automation of Electronic Systems (TODAES).
+His current research focuses on **event-based vision, CMOS image sensor and analog EDA**. He currently serves as the Chair of the IEEE CASS Peking University Student Branch Chapter. He is a peer reviewer for IEEE TCAD and ACM TODAES.
 
 His Chinese name is 孔子琛.
 
