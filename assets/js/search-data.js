@@ -25,6 +25,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-litedvs-a-low-data-redundancy-dynamic-vision-sensor-with-hybrid-readout-and-in-pixel-denoising-is-presented-at-date-2026",
           title: 'Our paper LiteDVS: A Low-Data-Redundancy Dynamic Vision Sensor with Hybrid Readout and In-Pixel...',
           description: "",
+          section: "News",},{id: "news-pvtsizing-2-0-is-available-as-an-arxiv-preprint",
+          title: 'PVTSizing 2.0 is available as an arXiv preprint.',
+          description: "",
           section: "News",},{
         id: 'social-scholar',
         title: 'Google Scholar',
