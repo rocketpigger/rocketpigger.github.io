@@ -11,6 +11,8 @@ Source for [zckong.top](https://zckong.top/), built with Jekyll and the [al-foli
 | Contact links                                         | [`_data/socials.yml`](_data/socials.yml)                                                                                                                       |
 | Site settings and appearance                          | [`_config.yml`](_config.yml), [`_layouts/`](_layouts/), [`_includes/`](_includes/) and [`_sass/`](_sass/)                                                      |
 
+Use `First-Author_Venue_Year_Title.pdf` for local PDFs. Separate words within a field with hyphens. Append `-Poster` or `-Slides` to the title field for those attachments.
+
 ## Local preview
 
 Run `docker compose up --build` and open [localhost:8080](http://localhost:8080).

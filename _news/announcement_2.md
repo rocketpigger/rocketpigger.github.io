@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our journal paper on an **incremental zoom ADC with skipped-sampling and NS-SAR quantizer** is published in the *IEEE Journal of Solid-State Circuits (JSSC)*.
+Our journal paper on an **incremental zoom ADC with skipped-sampling and NS-SAR quantizer** is published in the _IEEE Journal of Solid-State Circuits (JSSC)_.
