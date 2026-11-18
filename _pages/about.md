@@ -52,3 +52,10 @@ His Chinese name is 孔子琛.
     </ul>
   </div>
 </div>
+
+## Selected Honors
+
+- **Winning Award**, IEEE AICAS 2025 Grand Challenge
+- **Merit Student**, Peking University, 2023–2024
+- **Excellent Graduate**, Peking University, 2023
+- **First Prize of Peking University Scholarship**, 2020–2021
