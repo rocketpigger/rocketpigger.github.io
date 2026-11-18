@@ -1,2 +1,5 @@
 # Force LF line endings, needed for Docker to work on Windows
 *.sh text eol=lf
+
+# Preserve PDF bytes and avoid textual diffs for attachments.
+*.pdf binary
