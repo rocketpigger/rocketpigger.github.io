@@ -41,13 +41,13 @@ His Chinese name is 孔子琛.
     <ul class="list-unstyled">
       <li>
         <i class="fas fa-graduation-cap fa-fw me-2"></i>
-        <strong>Ph.D. in Integrated Circuits, 2023–2028 (expected)</strong>
-        <div class="ms-4 text-muted">Peking University</div>
+        <strong>Ph.D. in Integrated Circuit Science and Engineering, 2023–2028 (expected)</strong>
+        <div class="ms-4 text-muted">School of Integrated Circuits, Peking University</div>
       </li>
       <li class="mt-2">
         <i class="fas fa-graduation-cap fa-fw me-2"></i>
-        <strong>B.Sc. in EECS, 2019–2023</strong>
-        <div class="ms-4 text-muted">Peking University</div>
+        <strong>B.Sc. in Integrated Circuit Design and Integrated Systems, 2019–2023</strong>
+        <div class="ms-4 text-muted">School of Electronics Engineering and Computer Science, Peking University</div>
       </li>
     </ul>
   </div>
