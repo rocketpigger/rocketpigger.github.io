@@ -27,27 +27,31 @@ He currently serves as the Chair of the IEEE CASS Peking University Student Bran
 
 His Chinese name is 孔子琛.
 
-<div class="row mt-4">
-  <div class="col-md-6">
-    <h2>Interests</h2>
-    <ul>
+<div class="row my-4" style="clear: both">
+  <div class="col-lg-4 mb-4 mb-lg-0">
+    <h2 class="mb-3">Interests</h2>
+    <ul class="mb-0 pl-3">
       <li>Event-based Vision</li>
       <li>CMOS Image Sensor</li>
       <li>Analog EDA</li>
     </ul>
   </div>
-  <div class="col-md-6">
-    <h2>Education</h2>
-    <ul class="list-unstyled">
+  <div class="col-lg-8">
+    <h2 class="mb-3">Education</h2>
+    <ul class="list-unstyled mb-0">
       <li>
-        <i class="fas fa-graduation-cap fa-fw me-2"></i>
-        <strong>Ph.D. in Integrated Circuit Science and Engineering, 2023–2028 (expected)</strong>
-        <div class="ms-4 text-muted">School of Integrated Circuits, Peking University</div>
+        <strong>Ph.D. in Integrated Circuit Science and Engineering</strong>
+        <div style="opacity: 0.7">
+          <div>School of Integrated Circuits, Peking University</div>
+          <div class="small">2023–2028 (expected)</div>
+        </div>
       </li>
-      <li class="mt-2">
-        <i class="fas fa-graduation-cap fa-fw me-2"></i>
-        <strong>B.Sc. in Integrated Circuit Design and Integrated Systems, 2019–2023</strong>
-        <div class="ms-4 text-muted">School of Electronics Engineering and Computer Science, Peking University</div>
+      <li class="mt-3">
+        <strong>B.Sc. in Integrated Circuit Design and Integrated Systems</strong>
+        <div style="opacity: 0.7">
+          <div>School of Electronics Engineering and Computer Science, Peking University</div>
+          <div class="small">2019–2023</div>
+        </div>
       </li>
     </ul>
   </div>
