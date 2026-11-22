@@ -23,7 +23,7 @@ Zichen is a Ph.D. student at the School of Integrated Circuits, Peking Universit
 
 His current research focuses on **event-based vision, CMOS image sensor and analog EDA**.
 
-He currently serves as the Chair of the IEEE CASS Peking University Student Branch Chapter. He is a peer reviewer for IEEE TCAD and ACM TODAES.
+He currently serves as the Chair of the IEEE CASS Peking University Student Branch Chapter. He is a peer reviewer for IEEE TCAD and ACM TODAES. He has also reviewed for IEEE ISCAS.
 
 His Chinese name is 孔子琛.
 
