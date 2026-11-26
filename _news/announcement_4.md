@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**PVTSizing 2.0** is available as an [arXiv preprint](https://arxiv.org/abs/2611.22328).
+**PVTSizing 2.0** was released as an [arXiv preprint](https://arxiv.org/abs/2611.22328).
