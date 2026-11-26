@@ -14,6 +14,10 @@ nav_order: 1
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query !@patent %}
+
+<h2 class="bibliography">Patents</h2>
+
+{% bibliography --query @patent --group_by none %}
 
 </div>
