@@ -22,7 +22,7 @@ ninja.data = [{
           section: "News",},{id: "news-an-easy-driving-incremental-zoom-adc-with-skipped-sampling-scheme-and-ns-sar-quantizer-was-published-in-the-ieee-journal-of-solid-state-circuits-jssc",
           title: 'An Easy-Driving Incremental Zoom ADC with Skipped-Sampling Scheme and NS-SAR Quantizer was published...',
           description: "",
-          section: "News",},{id: "news-litedvs-a-low-data-redundancy-dynamic-vision-sensor-with-hybrid-readout-and-in-pixel-denoising-was-presented-at-date-2026",
+          section: "News",},{id: "news-litedvs-a-low-data-redundancy-dynamic-vision-sensor-with-hybrid-readout-and-in-pixel-denoising-was-presented-at-date-2026-in-verona-italy",
           title: 'LiteDVS: A Low-Data-Redundancy Dynamic Vision Sensor with Hybrid Readout and In-Pixel Denoising was...',
           description: "",
           section: "News",},{id: "news-pvtsizing-2-0-was-released-as-an-arxiv-preprint",
